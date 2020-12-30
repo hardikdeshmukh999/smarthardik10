@@ -1,8 +1,8 @@
 ### Hi there, I'm dedsec
 
-![dedsec's github stats](https://github-readme-stats.vercel.app/api?username=smarthardik10&count_private=true&show_icons=true&theme=prussian)
+![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=smarthardik10&count_private=true&show_icons=true&theme=prussian)
 
-- 😄 Call me ded/deds
+- 😄 Call me daddy
 - 🌱 I’m currently learning Java, Spring and API development.
 - 💬 Ask me about anime, python, bots, scripting and video encoding.
 - ⚡ Fun fact: This is Jojo's reference.
