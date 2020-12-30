@@ -1,24 +1,4 @@
-### Hi there, I'm dedsec
-
-![Hardik's github stats](https://github-readme-stats.vercel.app/api?username=smarthardik10&count_private=true&show_icons=true&theme=prussian)
-
-- 😄 Call me daddy
-- 🌱 I’m currently learning Java, Spring and API development.
-- 💬 Ask me about anime, python, bots, scripting and video encoding.
-- ⚡ Fun fact: This is Jojo's reference.
-- 📫 How to reach me?
-    - Discord: notdedsec#6215
-    - Twitter: [not_dedsec](https://twitter.com/not_dedsec)
-    - Telegram: [@notdedsec](https://t.me/notdedsec)
-    - Gmail: notdedsec@gmail.com
-    - Website: [notdedsec.com](http://notdedsec.com)
-
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--->
+ 
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/XTW52Kt">
@@ -37,7 +17,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=smarthardik10.smarthardik10)
 
 <br />
 
