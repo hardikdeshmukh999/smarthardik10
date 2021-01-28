@@ -19,11 +19,11 @@ Hi, I'm [Hardik Deshmukh!](https://www.linkedin.com/in/hardik-deshmukh/), a pass
 
   
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool so stick around for some cool data science projects :wink:;
 - 🌱 I’m currently learning Data Science ; 
-- 📝 Check out my Data Science blogs:[Medium](https://smarthardik10.medium.com/) ;
+- 📝 Check out my Data Science blogs: [Medium](https://smarthardik10.medium.com/) ;
 - 📫 How to reach me: [hardikdeshmukh999@gmail.com](https://www.linkedin.com/in/hardik-deshmukh/) ;
 - 📝[Resume](https://drive.google.com/drive/folders/1-aU5eMUyhlEPL0tuC2sEVbmCxXUReaPB?usp=sharing) ;
 
